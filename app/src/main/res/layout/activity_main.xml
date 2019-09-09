@@ -15,34 +15,42 @@
 
         <Button
             android:id="@+id/button2"
-            android:layout_width="match_parent"
             android:background="@drawable/button_light"
-            android:layout_marginTop="40dp"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="150dp"
             android:layout_height="wrap_content"
             android:text="Корзина" />
 
         <Button
             android:id="@+id/button8"
-            android:layout_width="match_parent"
             android:background="@drawable/button_light"
-            android:layout_marginTop="40dp"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
             android:layout_height="wrap_content"
             android:text="Столовая МГТУ имени Бумана" />
 
         <Button
             android:id="@+id/button9"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
             android:background="@drawable/button_light"
             android:layout_height="wrap_content"
-            android:layout_marginTop="40dp"
             android:text="Столовая МФТИ" />
 
         <Button
             android:id="@+id/button10"
-            android:layout_width="match_parent"
             android:background="@drawable/button_light"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="40dp"
             android:text="Столовая НИЯУ МИФИ" />
 
     </LinearLayout>

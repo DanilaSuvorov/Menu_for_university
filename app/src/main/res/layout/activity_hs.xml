@@ -16,26 +16,31 @@
 
         <Button
             android:id="@+id/button"
-            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
             android:background="@drawable/button_light"
             android:layout_marginBottom="20dp"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="100dp"
             android:text="Понедельник"
             tools:layout_editor_absoluteX="210dp"
             tools:layout_editor_absoluteY="157dp" />
 
         <Button
             android:id="@+id/button3"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
             android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_light"
             android:text="Вторник" />
 
         <Button
             android:id="@+id/button4"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="25dp"
             android:layout_marginBottom="20dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_light"
@@ -43,23 +48,29 @@
 
         <Button
             android:id="@+id/button5"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
             android:layout_marginBottom="20dp"
             android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
             android:background="@drawable/button_light"
             android:text="Четверг" />
 
         <Button
             android:id="@+id/button6"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
             android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
             android:layout_height="wrap_content"
             android:background="@drawable/button_light"
             android:text="Пятница" />
 
         <Button
             android:id="@+id/button7"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="25dp"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:background="@drawable/button_light"
